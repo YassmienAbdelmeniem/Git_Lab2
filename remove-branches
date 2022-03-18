@@ -1,0 +1,7 @@
+// to remove branch remotly
+   git push origin: div
+   git push origin: test
+
+// to remove branch locally
+   git branch -d div
+   git branch -d test
