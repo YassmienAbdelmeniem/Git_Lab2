@@ -1,0 +1,9 @@
+// to list tages
+    git tag
+
+
+// to delete remote tages 
+    git push origin --delete yassmien
+
+// to delete local tages 
+    git tag -d yassmien
